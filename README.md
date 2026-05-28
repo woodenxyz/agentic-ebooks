@@ -1,7 +1,7 @@
 <h1 align="center">Agentic Ebooks</h1>
 
 <p align="center">
-  一个面向中文读者的 Agentic AI 电子书书架，提供 EPUB 和 PDF 两种阅读格式。
+  面向中文读者的 Agentic AI 电子书书架，收录来源清楚、便于离线阅读的 EPUB 与 PDF 版本。
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ## 关于这个书架
 
-这个仓库不是原创电子书项目，也不主张这些内容由我们创作。
+这里收录的是开源学习项目的阅读版文件。每本书都保留原作者、原项目链接和源项目许可，方便读者回到原始仓库查看最新内容、提交反馈或支持原作者。
 
-我们的工作只是把已有的开源学习材料整理成更适合阅读的 EPUB 和 PDF 格式，并把原作者、原项目和许可信息放在显眼位置，方便读者回到原始来源继续了解和支持作者。
+这个书架适合想离线阅读、在阅读器中收藏，或快速下载 PDF/EPUB 的读者。内容来源和署名信息见下方说明。
 
 ## 书架
 
@@ -73,13 +73,13 @@
 
 ## 来源说明
 
-| 书名 | 原作者 / 维护者 | 原 GitHub 项目 | 源项目许可 | 本仓库做了什么 |
+| 书名 | 原作者 / 维护者 | 原 GitHub 项目 | 源项目许可 | 书架版本 |
 |---|---|---|---|---|
 | Learn Claude Code: Agent Harness Engineering | shareAI Lab | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | MIT License | 整理为 EPUB / PDF 阅读版 |
 | CodexGuide | canghe / 苍何 | [freestylefly/CodexGuide](https://github.com/freestylefly/CodexGuide) | MIT License | 整理为 EPUB / PDF 阅读版 |
 
 ## 许可与署名
 
-两本书的内容仍属于各自原作者和原维护者。
+本书架中的电子书来自上表列出的开源项目，内容版权与署名遵循各自源项目。
 
-本仓库在 [LICENSE](LICENSE) 中保留了两个源项目的 MIT 许可声明。转发、引用或二次分发这些文件时，请保留原作者、原项目链接和许可信息。
+[LICENSE](LICENSE) 中保留了两个源项目的 MIT 许可声明。分享或二次分发这些文件时，请保留原作者、原项目链接和许可信息。
