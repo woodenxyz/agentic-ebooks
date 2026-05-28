@@ -10,6 +10,10 @@
   <a href="#license-and-attribution">License and Attribution</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/woodenxyz/agentic-ebooks/releases/tag/v2026.05.28"><strong>Download the first public release</strong></a>
+</p>
+
 ## About This Shelf
 
 This repository does not claim authorship of the original books or source projects.
